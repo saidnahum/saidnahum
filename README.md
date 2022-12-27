@@ -1,4 +1,4 @@
-Hi 👋 My name is Said Nahúm!!
+Hi I'm Said Nahúm 👋!!
 =============================
 
 Freelance Front-end and Back-end Developer
@@ -6,6 +6,7 @@ Freelance Front-end and Back-end Developer
 
 I’m a freelance Front-end and Back-end Developer with 3 years experience creating successful websites and digital products for both business and consumer use.
 
+* 🚀  I'm currently working on JAMstack content!
 * 🌍  I'm based in Mexico City, MX.
 * 🖥️  See my portfolio at [saidn.ml](http://saidn.ml)
 * ✉️  You can contact me at [saidnahum.dev@gmail.com](mailto:saidnahum.dev@gmail.com)
@@ -33,9 +34,9 @@ I’m a freelance Front-end and Back-end Developer with 3 years experience creat
 </p>
 
 
-### Socials
+<!-- ### Socials
 
-<p align="left"> <a href="https://www.github.com/saidnahum" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/saidnahum" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
 
 ### Support Me
 

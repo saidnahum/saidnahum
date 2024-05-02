@@ -8,7 +8,7 @@ I’m a freelance Front-end and Back-end Developer with 3 years experience creat
 
 * 🚀  I'm currently working on JAMstack content!
 * 🌍  I'm based in Mexico City, MX.
-* 🖥️  See my portfolio at [saidn.ml](http://saidn.ml)
+* 🖥️  See my portfolio at [saidn.ml](http://saidn.tech)
 * ✉️  You can contact me at [saidnahum.dev@gmail.com](mailto:saidnahum.dev@gmail.com)
 * 🧠  I'm learning Javascript Frameworks and Python for Data Analysis
 * 🤝  I'm open to collaborating on creating successful websites and data analysis
